@@ -1,0 +1,17 @@
+{
+  "name": "Imperial Reader Extensions",
+  "version": 1,
+  "extensions": [
+    {"name": "MangaDex", "pkg": "eu.kanade.tachiyomi.extension.en.mangadex", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "MangaKakalot", "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "MangaNato", "pkg": "eu.kanade.tachiyomi.extension.en.manganato", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Webtoons", "pkg": "eu.kanade.tachiyomi.extension.en.webtoons", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "ComicK", "pkg": "eu.kanade.tachiyomi.extension.en.comick", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "MangaFire", "pkg": "eu.kanade.tachiyomi.extension.en.mangafire", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Asura Scans", "pkg": "eu.kanade.tachiyomi.extension.en.asurascans", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Reaper Scans", "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Flame Scans", "pkg": "eu.kanade.tachiyomi.extension.en.flamescans", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Luminous Scans", "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0},
+    {"name": "Immortal Updates", "pkg": "eu.kanade.tachiyomi.extension.en.immortalupdates", "lang": "en", "code": 1, "version": "1.4.0", "nsfw": 0}
+  ]
+}
